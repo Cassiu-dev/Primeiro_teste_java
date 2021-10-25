@@ -8,6 +8,8 @@ public class Primeiroprograma {
 		
 		Gato gato = new Gato(null, null, null);
 		
+		
+		
 		System.out.println(gato);
 		
 		/*int a =2;
